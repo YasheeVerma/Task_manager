@@ -84,7 +84,7 @@ in your browser
 
 ##  Demo
 
-Frontend: 
+Frontend: https://69bd28470226f54f0b1e5e57--task-manageryv.netlify.app/
 Backend: https://task-manager-api-p0ll.onrender.com
 
 
